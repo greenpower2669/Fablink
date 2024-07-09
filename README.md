@@ -1,5 +1,6 @@
 Hello, here is a small program to replace the shortcut launch bar that has disappeared since Windows 11. As part of my AI challenge, I tried to test the limits of the current models. GPT-4 is knocked out this time and Claude 3.5 does well with only 4 debugging phases.
-
+cmd :
+pip install pyqt5
 
 Prompt: Here is the English translation of your text:
 
